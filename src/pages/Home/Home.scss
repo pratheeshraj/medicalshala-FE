@@ -1,0 +1,15 @@
+.home {
+  background-color: #eeeff7;
+  min-height: 100vh;
+
+  & nav {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    color: #fff;
+    & > .logo {
+      color: #2a50b9;
+    }
+  }
+}
+
+
